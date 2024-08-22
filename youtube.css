@@ -1,0 +1,13 @@
+h3{
+    color: rgb(70, 70, 228);
+    font-family:sans-serif;
+}
+.youtube-left{
+    width:50%;
+    height:100%;
+    position:fixed
+}
+.youtube-right{
+    margin-left: 600px;
+    position: fixed;
+}
