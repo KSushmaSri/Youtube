@@ -11,3 +11,21 @@ h3{
     margin-left: 600px;
     position: fixed;
 }
+form{
+    width: 250px;
+    height:200px;
+    margin-top: 50px;;
+    margin-left:400px;
+    padding-left:100px;
+    padding-top: 100px;
+}
+.registration{
+    background-color: rgb(28, 57, 144);
+}
+.login{
+    background-color: rgb(38, 143, 209);
+}
+input{
+    margin:2px;
+    border-radius: 5px;;
+}
